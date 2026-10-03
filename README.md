@@ -1,4 +1,4 @@
-Then don't mention requirements.txt. Your README should use the packages your project actually imports.
+
 # Scriptual AI
 
 Scriptual AI is an AI-powered content pipeline built with LangGraph, LangChain, and Groq. It takes raw content, improves it, turns it into a script, and converts the final script into natural Hinglish.
