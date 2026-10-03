@@ -59,5 +59,3 @@ scriptual-ai-project/
 
 Never upload your .env file or expose your Groq API key publicly.
 
-
-One correction: **your current code doesn't actually import LangGraph yet**, so don't claim the implementation uses LangGraph until you add the `StateGraph` pipeline. Once we connect your three nodes, the description will be accurate.
